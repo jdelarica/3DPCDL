@@ -1,5 +1,4 @@
-# 3D POINT CLOUD CORRESPONDENCES USING DEEP LEARNING
-
+# 3D Point Clouds Correspondences Using Deep Learning
 | ![Javier de la Rica](/images/Javier.JPG) | ![Logo](/images/upc_etsetb.jpg) |
 | :---: | :---: |
 | Javier de la Rica | delaricajavier@gmail.com |
