@@ -5,6 +5,8 @@
 # Universitat Politècnica de Catalunya
 #
 # ply2shelf.py reads the PLY files from the database, and computes a dictionary shelf file.
+# 
+# (x, y, z, r, g, b) coordinates are set to (x, y, z, Y), using the Y = 0.2126*R + 0.7152*G + 0.0722*B luminance computation.
 #
 # Author: Javier de la Rica
 # Date: November 2017
