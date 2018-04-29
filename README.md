@@ -18,3 +18,4 @@ All in all, the main objective of the project is the study of the behavior of ne
 
 
 ![FCN Architecture](/images/fcn.png) 
+Three-layer fully connected network architecture (fcReLu+1fcSigmoid)
