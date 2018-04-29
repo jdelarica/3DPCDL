@@ -16,3 +16,5 @@ On the other hand, a neural network is generated to be trained with the previous
 
 All in all, the main objective of the project is the study of the behavior of neural networks in a specific case, for a possible application of augmented reality (AR). Therefore, the present work is a good basis for a possible alternative work, capable of generating an augmented reality application in which three-dimensional objects are inserted into two-dimensional images.
 
+
+![FCN Architecture](/images/fcn.png) 
