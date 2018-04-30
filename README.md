@@ -19,3 +19,18 @@ All in all, the main objective of the project is the study of the behavior of ne
 
 ![FCN Architecture](/images/fcn.png) 
 **Figure1.** *Three-layer fully connected network architecture (2fcReLu+1fcSigmoid)*
+
+
+## Software Architecture
+.
+|— 3DPCDL 
+|— data
+|    |— database.py
+|    |— database_prepare.py
+|    |— ply2shelf.py (reads a .ply file and computes a dictionary shelf file)
+|— network
+|    |— datasets.py
+|    |— networks.py
+|    |— test.py
+|    |— train.py
+|— results
