@@ -19,4 +19,35 @@ On the other hand, a neural network is generated to be trained with the previous
 All in all, the main objective of the project is the study of the behavior of neural networks in a specific case, for a possible application of augmented reality (AR). Therefore, the present work is a good basis for a possible alternative work, capable of generating an augmented reality application in which three-dimensional objects are inserted into two-dimensional images.</p>
   </details>
 
+## 3DPCDL Architecture
+```
+.
+|— data
+|    |— database.py
+|    |— database_prepare.py
+|    |— ply2shelf.py
+|
+|— network
+|     |— datasets.py
+|     |— networks.py
+|     |— test.py
+|     |— train.py
+|
+|— research
+|     |— find-neighbors.m
+|     |— plot_sphere.m
+|
+|— results
+|     |— tests_512_100_50_1
+|     |— tests_512_120_84_1_V1
+|     |— tests_512_120_84_1_V2
+|     	   |— sgd_lr0.0001_mom0.0_wd0.0_color 
+|     		|— best.txt (best accuracy obtained for this network architecture)
+|     		|— net.pkl
+|     		|— train.py
+|     		|— train.tct
+|     		|— train_accu.png
+|     		|— train_loss.png
+```
+
 
