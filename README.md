@@ -5,7 +5,7 @@
 | Javier de la Rica | delaricajavier@gmail.com |
 
 Using a Fully Connected Artificial Neural Network in order to binarly classify correspondences between two different three-dimensional point clouds.
- 
+  
 <details>
   <summary>ABSTRACT</summary>
   <p>The current project arises from the motivation of studying the tools of neural networks, along with the application of the knowledge acquired during the courses in the degree in a work that brings together the training of neural networks using three-dimensional point clouds.
