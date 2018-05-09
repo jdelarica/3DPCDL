@@ -2,7 +2,7 @@
 ### Currently Under Construction :construction_worker:
 | ![Javier de la Rica](/images/profile.jpeg) | ![Logo](/images/upc_etsetb.jpg) |
 | :---: | :---: |
-| Javier de la Rica | delaricajavier@gmail.com |
+| [Javier de la Rica](https://github.com/jdelarica) | delaricajavier@gmail.com |
 
 Using a Fully Connected Artificial Neural Network in order to binarly classify correspondences between two different three-dimensional point clouds.
   
