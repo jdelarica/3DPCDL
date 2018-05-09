@@ -52,3 +52,4 @@ All in all, the main objective of the project is the study of the behavior of ne
 * [PyCharm](https://www.jetbrains.com/pycharm/)<br>
 * [PyTorch](https://pytorch.org/)<br>
 * [TensorFlow](https://www.tensorflow.org/)<br>
+* [Image Processing Group - UPC](https://imatge.upc.edu/web/)
