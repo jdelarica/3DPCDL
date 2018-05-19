@@ -4,7 +4,7 @@
 # Barcelona School of Telecommunications Engineering 
 # Universitat Politècnica de Catalunya
 #
-# database_prepare.py reads file 'database.txt' and separate into train (90%), validation (10%) and test (10%)
+# database_prepare.py reads file 'database.txt' and separate into train (80%), validation (10%) and test (10%)
 #
 # when read, database.txt is a python list with matches between keypoints with the following info:
 # 
